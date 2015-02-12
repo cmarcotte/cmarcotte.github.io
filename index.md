@@ -1,0 +1,7 @@
+Welcome to my Github page. 
+--------------------------
+I am currently a graduate student in the [School of Physics at Georgia Institute of Technology](www.physics.gatech.edu). My interests span several subfields of mathematics and theoretical physics. My thesis work focuses on cardiac dynamics ([e.g.,](www.thevirtualheart.org)), in particular, the application of techniques from pattern formation and dynamical systems to simplified models of cardiac excitation. I am also interested in dynamical equations with less specific domains (e.g., the Complex Ginzburg-Landau equation, Navier-Stokes, or Kuramoto-Sivashinsky), and their relevance for understanding infinite-dimensional chaos.
+
+This page will serve as a conglomeration of some of my programming efforts. I am very familiar with [Python](python.org), [Julia](julialang.org), and [Matlab](mathworks.com/products/matlab) as convenient and acceptably speedy *heavy lifters*. Furthermore, I have had extensive practice writing [OpenCL](khronos.org/opencl) device kernels, which affords me some familiarity with [CUDA](http://www.nvidia.com/object/cuda_home_new.html) device kernels. 
+
+This page will be maintained as the ever-scarce resources of time and attention allow. My email is [here](christopher.marcotte+git@gmail.com).
