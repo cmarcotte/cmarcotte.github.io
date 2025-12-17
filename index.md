@@ -1,9 +1,6 @@
 # Christopher Marcotte, PhD FHEA
 
-Assistant Professor
-Scientific Computing Research Group
-Department of Computer Science
-Durham University
+Durham University / Department of Computer Science / Scientific Computing Group / Assistant Professor
 
 ---
 
