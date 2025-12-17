@@ -9,7 +9,7 @@ Durham University / Department of Computer Science / Scientific Computing Group 
 I am a computational scientist specializing in pattern formation, dynamical systems, and computational physics, with a primary focus on cardiac dynamics. My research combines theoretical analysis with advanced numerical methods to understand complex spatiotemporal phenomena in biological systems.
 
 ### Education
-- **Fellow of the Higher Education Authority** - (2025)
+- [**Fellow of the Higher Education Authority**](https://www.advance-he.ac.uk/fellowship/fellowship) - (2025)
 - **PhD in Physics** - Georgia Institute of Technology (2016)
 - **MSc in Physics** - Georgia Institure of Technology (2016)
 - **BSc in Physics** (_magna cum laude_) - University of Rhode Island (2010)
