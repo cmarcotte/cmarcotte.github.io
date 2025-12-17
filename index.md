@@ -1,11 +1,63 @@
-You have reached the webpage for `cmarcotte.github.io`. Your visit is important to us, please leave a message after the beep.
+# Christopher Marcotte, PhD FHEA
 
-# Bio
-I am Christopher Marcotte. I am a research worker focusing on pattern formation, dynamical systems, computational physics, and typically where these intersect with cardiac dynamics. Concisely, I electrocute rocks into thinking about how hearts don't beat. I did my undergrad at the University of Rhode Island and graduated _magna cum laude_ in 2010 with a BSc in physics. I went to Georgia Institute of Technology from 2010-2016 and graduated with my PhD in physics. I spent 2017-2019 at the EPSRC Centre for Predictive Modelling in Healthcare as a Research Fellow at the University of Exeter in Mathematics. Since 2020 I have worked at Georgia Institute of Technology as a Postdoctoral Researcher in Computational Science and Engineering. The observant reader may note that I have been each letter of the STEM acronym.
+Assistant Professor
+Scientific Computing Research Group
+Department of Computer Science
+Durham University
 
-# Scholarship
-You can find a listing of my academic publications [here](https://scholar.google.com/citations?user=Bj5er40AAAAJ&hl=en&oi=ao).
-I have been a regular at the SIAM Dynamical Systems conference (formerly 'Snowbird') since 2013, the SIAM Life Sciences conference since 2015, and have presented at the SIAM Computational Science and Engineering conference in 2021. I also co-organized an international workshop at the University of Exeter focusing on the medical and mathematical aspects of cardiac dynamics in December 2018, several minisymposia at SIAMDS21, and recently helped on the organizing committee for Dynamics Days US 2021.
+---
 
-# Codes
-Since a signficant portion of my research involves computational modeling, I have begun to be serious about maintaining repositories in the last couple of years. My github profile can be found [here](https://github.com/cmarcotte). There are some other codes in other places, which, for licensing and privacy reasons, are unavailable at this time.
+## About
+
+I am a computational scientist specializing in pattern formation, dynamical systems, and computational physics, with a primary focus on cardiac dynamics. My research combines theoretical analysis with advanced numerical methods to understand complex spatiotemporal phenomena in biological systems.
+
+### Education
+- **Fellow of the Higher Education Authority** - (2025)
+- **PhD in Physics** - Georgia Institute of Technology (2016)
+- **MSc in Physics** - Georgia Institure of Technology (2016)
+- **BSc in Physics** (_magna cum laude_) - University of Rhode Island (2010)
+
+### Professional Experience
+
+- **Assistant Professor**, [Scientific Computing Group, Department of Computer Science, Durham University](https://www.durham.ac.uk/staff/christopher-marcotte/) (September 2022 - )
+- **Postdoctoral Researcher**, School of Computational Science and Engineering, Georgia Institute of Technology (January 2020 - September 2022)
+- **Research Fellow**, EPSRC Centre for Predictive Modelling in Healthcare, University of Exeter, Mathematics Department (December 2017 - December 2019)
+
+## Research Interests
+
+- Pattern formation in biological systems
+- Dynamical systems and nonlinear dynamics
+- Computational physics and numerical methods
+- Cardiac electrophysiology and arrhythmias
+- High-Performance Computing
+- Machine-Learning acceleration for physical applications
+- Computation and characterization of Exact Coherent Structures
+- Dynamical systems and pattern formation
+- Numerical simulation of reaction-diffusion models
+- Data assimilation
+- Dynamically constrained Optimization
+- Computational Cardiac Electrophysiology
+- Exact solutions of nonlinear partial differential equations
+- Modal analysis of large systems
+
+## Publications
+
+A complete listing of my publications is available on [Google Scholar](https://scholar.google.com/citations?user=Bj5er40AAAAJ&hl=en&oi=ao).
+
+## Service and Professional Activities
+- Organizing Committee, SIAM Computational Science and Engineering (2025)
+- Organizer, Minisymposium, HPC/AI Days, Durham University
+- Organizer, Minisymposia at SIAM Dynamical Systems (2021)
+- Organizing Committee Member, Dynamics Days US (2021)
+- Co-organizer, International Workshop on Cardiac Dynamics, University of Exeter (2018)
+- Regular participant at SIAM Dynamical Systems Conference (2013 - )
+- Regular participant at SIAM Life Sciences Conference (2015 - )
+- Presenter at SIAM Computational Science and Engineering Conference (2021 - )
+
+## Code and Software
+
+My research involves significant computational modeling work. Public repositories are maintained under this account [GitHub](https://github.com/cmarcotte). Additional codes are in development or subject to licensing restrictions.
+
+## Collaboration
+
+I am eager to collaborate with researchers and educators on interesting problems at the intersection of computing, mathematics, and physical systems. The most appropriate way to reach me is by [email](mailto:christopher.marcotte@durham.ac.uk).
